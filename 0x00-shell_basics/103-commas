@@ -1,0 +1,4 @@
+#!/bin/bash
+ls --format=commas -a -p --indicator-style=slash
+wc -l 103-commas
+rm wc -l 103-commas
